@@ -1,0 +1,4 @@
+File:C:\Users\ByTech\source\repos\lab9\lab9.sln
+File:C:\Users\ByTech\source\repos\lab9\.vs
+File:C:\Users\ByTech\source\repos\lab9\KPAInspect
+File:C:\Users\ByTech\source\repos\lab9\lab9
